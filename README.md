@@ -7,11 +7,11 @@ Estou migrando para área de tecnologia e estudando com ferramentas disponíveis
 - 🔭 No momento estou em transição de carreira
 - 🌱 Estudando HTML5, CSS3,JavaScript, Python,SQL 
 - 🤔 Aceito ajuda para meu aprendizado
-<body bgcolor="yellow">
+
 <div align="center">
   <a href="https://github.com/SuellenDiass">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SuellenDiass&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuellenDiass&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SuellenDiass&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuellenDiass&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -37,3 +37,4 @@ target="_blank"></a>
   ![Snake animation](https://github.com/SuellenDiass/SuellenDiass/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+
