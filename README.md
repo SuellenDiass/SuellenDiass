@@ -24,6 +24,7 @@ Estou migrando para área de tecnologia e estudando com ferramentas disponíveis
   <img align="center" alt="Suellen-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Suellen-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>  
   <img align="center" alt="Suellen-Pycharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-plain-wordmark.svg"/>
+  <img align="center" alt="Suellen-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-plain-wordmark.svg"/>
   <img align="center" alt="Suellen-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
   <img align="center" alt="Suellen-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
   <img align="right" alt="Suellen-pic" height="150" style="border-radius:50px;" src="https://octodex.github.com/images/femalecodertocat.png?width=676&height=676">
