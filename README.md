@@ -6,7 +6,7 @@ Estudante de Análise e Desenvolvimento de Sistemas
 
 - 🔭 No momento estou em transição de carreira
 - 🌱 Estudando HTML5, CSS3,JavaScript, Python,SQL 
-- 🤔 Aceito ajuda para meu aprendizado
+- 🤔 Complementos de estudos nas plataformas Dio.me,Alura, Hashtag Treinamentos
 
 <div align="center">
   <a href="https://github.com/SuellenDiass">
