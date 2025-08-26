@@ -2,7 +2,7 @@
 
 
 
-Estou migrando para área de tecnologia e estudando com ferramentas disponíveis na internet
+Estudante de Análise e Desenvolvimento de Sistemas
 
 - 🔭 No momento estou em transição de carreira
 - 🌱 Estudando HTML5, CSS3,JavaScript, Python,SQL 
